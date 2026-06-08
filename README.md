@@ -82,15 +82,15 @@ Configure database connection
 
 
 ## 📊 Key Highlights
-Role-based authentication system
-Secure login & registration
-Dynamic question management
-Real-time exam system
-Result & leaderboard tracking
+- Role-based authentication system
+- Secure login & registration
+- Dynamic question management
+- Real-time exam system
+- Result & leaderboard tracking
 
 ---
 
 🔮 Future Improvements
-Web-based version (Spring Boot / React)
-Cloud database integration
-Mobile app version
+- Web-based version (Spring Boot / React)
+- Cloud database integration
+- Mobile app version
