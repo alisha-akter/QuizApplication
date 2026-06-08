@@ -79,15 +79,16 @@ Open the project in IntelliJ IDEA
 Add MySQL JDBC Connector (if not added)
 Configure database connection
 
-Run:
-
-Main.java
-📊 Key Highlights
+```
+## 📊 Key Highlights
 Role-based authentication system
 Secure login & registration
 Dynamic question management
 Real-time exam system
 Result & leaderboard tracking
+
+---
+
 🔮 Future Improvements
 Web-based version (Spring Boot / React)
 Cloud database integration
