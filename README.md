@@ -75,11 +75,12 @@ quiz_db
 1. Clone the repository:
 ```bash
 git clone https://github.com/alisha-akter/QuizApplication.git
+```
 Open the project in IntelliJ IDEA
 Add MySQL JDBC Connector (if not added)
 Configure database connection
 
-```
+
 ## 📊 Key Highlights
 Role-based authentication system
 Secure login & registration
