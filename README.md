@@ -76,9 +76,12 @@ quiz_db
 ```bash
 git clone https://github.com/alisha-akter/QuizApplication.git
 ```
-Open the project in IntelliJ IDEA
-Add MySQL JDBC Connector (if not added)
-Configure database connection
+- Open the project in IntelliJ IDEA
+- Add MySQL JDBC Connector (if not added)
+- Configure database connection
+- Run:
+  ```bash
+  Main.java
 
 
 ## 📊 Key Highlights
